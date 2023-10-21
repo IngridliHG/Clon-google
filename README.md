@@ -9,11 +9,11 @@ Proyecto creado con **HTML y CSS**, se trata del navegador más usado: la interf
 
 **Inspirate de la realización de este proyecto, utiliza tu destreza para demostrar que tu futuro es ser desarrolladora frontend :)**
 ## Contenido
-1. Header
+1. Header:
 Esta sección muestra el menú y foto de perfil
-2. Main
+2. Main:
 Contiene los elementos centrales de el buscador
-3. Footer
+3. Footer:
 Incluye hipervínculos al final de la página
 
 Fue realizado por Ingrid Lilian (✿◠‿◠)
